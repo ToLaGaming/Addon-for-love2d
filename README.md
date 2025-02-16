@@ -1,0 +1,1 @@
+--this is experiemental it is a programming language used for a love2d project i designed that adds new functions and stuff you can use and modify this for your own free and commercial projects
